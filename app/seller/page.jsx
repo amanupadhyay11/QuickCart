@@ -134,6 +134,8 @@ const AddProduct = () => {
               <option value="Laptop">Laptop</option>
               <option value="Camera">Camera</option>
               <option value="Accessories">Accessories</option>
+              <option value="Toys">Toys</option>
+              <option value="Speaker">Speaker</option>
             </select>
           </div>
           <div className="flex flex-col gap-1 w-32">
